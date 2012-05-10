@@ -4,7 +4,7 @@
   <title><![CDATA[Category: privacy | proteus4]]></title>
   <link href="http://proteus4.github.com/blog/categories/privacy/atom.xml" rel="self"/>
   <link href="http://proteus4.github.com/"/>
-  <updated>2012-05-10T09:17:39-04:00</updated>
+  <updated>2012-05-10T09:21:27-04:00</updated>
   <id>http://proteus4.github.com/</id>
   <author>
     <name><![CDATA[proteus4]]></name>
@@ -20,7 +20,7 @@
     <id>http://proteus4.github.com/blog/2012/05/10/anonymity-on-the-internet</id>
     <content type="html"><![CDATA[<p>The last few days I have suddenly become obsessed with anonymity.</p>
 
-<p>I had just wiped out my last installation of Microsoft Windows and replaced it with Debian and was installing various software packages when I noticed <a href="https://www.torproject.org/">Tor</a> in the list. I had first heard about tor many, many years ago but had never actually gotten around to trying it out. I decided to change that.</p>
+<p>I had just wiped out my last installation of Microsoft Windows and replaced it with <a href="http://www.debian.org/">Debian GNU/Linux</a> and was installing various software packages when I noticed <a href="https://www.torproject.org/">Tor</a> in the list. I had first heard about tor many, many years ago but had never actually gotten around to trying it out. I decided to change that.</p>
 
 <p>Let me start by saying that I don't do anything on the internet that <em>requires</em> that I be anonymous. I don't have any compelling reason to hide anything that I do. I'm actually very <em>public</em> on the Internet. My primary blog and Twitter account have RSS subscribers and followers that number in the four digits and they're both under my real name.</p>
 
