@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[proteus4]]></title>
   <link href="http://proteus4.github.com/atom.xml" rel="self"/>
   <link href="http://proteus4.github.com/"/>
-  <updated>2012-05-10T06:43:38-04:00</updated>
+  <updated>2012-05-10T07:16:16-04:00</updated>
   <id>http://proteus4.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[proteus4]]></name>
+    <email><![CDATA[proteus4@riseup.net]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
