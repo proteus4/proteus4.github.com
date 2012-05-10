@@ -8,7 +8,7 @@ categories: privacy
 
 The last few days I have suddenly become obsessed with anonymity.
 
-I had just wiped out my last installation of Microsoft Windows and replaced it with Debian and was installing various software packages when I noticed [Tor](https://www.torproject.org/) in the list. I had first heard about tor many, many years ago but had never actually gotten around to trying it out. I decided to change that.
+I had just wiped out my last installation of Microsoft Windows and replaced it with [Debian GNU/Linux](http://www.debian.org/) and was installing various software packages when I noticed [Tor](https://www.torproject.org/) in the list. I had first heard about tor many, many years ago but had never actually gotten around to trying it out. I decided to change that.
 
 Let me start by saying that I don't do anything on the internet that *requires* that I be anonymous. I don't have any compelling reason to hide anything that I do. I'm actually very *public* on the Internet. My primary blog and Twitter account have RSS subscribers and followers that number in the four digits and they're both under my real name.
 
