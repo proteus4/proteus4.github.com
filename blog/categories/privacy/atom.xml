@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: privacy | proteus4]]></title>
+  <link href="http://proteus4.github.com/blog/categories/privacy/atom.xml" rel="self"/>
+  <link href="http://proteus4.github.com/"/>
+  <updated>2012-05-10T09:11:22-04:00</updated>
+  <id>http://proteus4.github.com/</id>
+  <author>
+    <name><![CDATA[proteus4]]></name>
+    <email><![CDATA[proteus4@riseup.net]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[anonymity on the internet]]></title>
+    <link href="http://proteus4.github.com/blog/2012/05/10/anonymity-on-the-internet/"/>
+    <updated>2012-05-10T08:24:00-04:00</updated>
+    <id>http://proteus4.github.com/blog/2012/05/10/anonymity-on-the-internet</id>
+    <content type="html"><![CDATA[<p>the last few days i have suddenly become obsessed with anonymity.</p>
+
+<p>i had just wiped out my last windows installation with debian and was installing various software packages when i noticed <a href="https://www.torproject.org/">tor</a> in the list. i first heard about tor many, many years ago but i had never actually made use of it. i decided to check it out.</p>
+
+<p>let me say that i don't do anything on the internet that <em>requires</em> that i be anonymous on the internet. i don't have any compelling reason to hide anything that i do. in actuality, i'm very <em>public</em> on the internet. my primary blog and twitter account have rss subscribers and followers that number in the four digits.</p>
+
+<p>something i noticed, however, was that i felt some innate "freedom" when i was surfing the web over tor. i wasn't signed into my any of my google accounts, so they weren't tracking my searches. every 15 minutes or so, i'd close my browser and fire it up again, wiping out any cache and cookies, so advertisers weren't tracking me across sites either.</p>
+
+<p>it was a weird feeling and i liked it.</p>
+
+<p>in the days since, i've became accustomed to this freedom. although i still use chrome on my macbook pro for most of my web browsing, i've began using this linux box more and more for my "general surfing". it's somewhat comforting to know that, regardless of what sites i visit, no one knows who i am.</p>
+
+<p>tor is now configured to start up automatically when my system boots up, firefox is configured to use it as a proxy, and 95% of my web browsing is now completely anonymous. because tor slows things down quite a bit, i also have chrome installed. it's only being used in a very few instances, however.</p>
+
+<p>over the next few posts, i'll explain how this newfound privacy has changed my "internet habits" and caused me to seek out even more ways to be anonymous on the internet, from e-mail to irc.</p>
+
+<p>it's a completely different experience and, unfortunately, it hasn't been entirely without incident.</p>
+]]></content>
+  </entry>
+  
+</feed>
